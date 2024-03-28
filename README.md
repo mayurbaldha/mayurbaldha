@@ -11,7 +11,8 @@
 - JavaScript developer specializing in React, React Native, Node.js, Redux, and TypeScript by following Clean Architecture with SOLID principles. 
 
 - From coding UI components to coding architectures and then to planning and training people to build architectures, in this process, I learned how important the teamwork is to build an IT product.
-- I have also done some notable work with technolgies using node.js pythong and Java technologies.
+  
+- I have also done some notable work with technolgies using Node.js Python and Java technologies.
 
 - Self-motivated Team worker with excellent proactive problem-solving skills.
 
