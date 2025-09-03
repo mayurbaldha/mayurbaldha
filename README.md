@@ -1,38 +1,49 @@
+# Hi there 👋, I'm Mayur Baldha
 
-### Hi there 👋 I am Mayur Baldha !
-- 🔭 I’m currently working on Javascript,TypeScript,ECMAScript Node.js,Express.js, Python...
-- 🌱 I’m currently learning new technogloies...
-- 👯 I’m looking to collaborate on opensource...
-- 🤔 I’m looking for help with scaling distributed systems and algorithms...
-- 💬 Ask me about Technicals related to codes...
-- 📫 How to reach me: https://twitter.com/mayurbaldha91
+### **Staff Engineer | Full-Stack Architect | Technical Leader**
 
-##### About Me
-- JavaScript developer specializing in React, React Native, Node.js, Redux, and TypeScript by following Clean Architecture with SOLID principles. 
+🛠️ I'm a **Staff Engineer** with a strong foundation in **full-stack development**, specializing in **team enablement, architecture strategy, and engineering leadership**. I lead complex **frontend and full-stack initiatives**, balancing hands-on coding with mentorship and cross-functional collaboration.
 
-- From coding UI components to coding architectures and then to planning and training people to build architectures, in this process, I learned how important the teamwork is to build an IT product.
-  
-- I have also done some notable work with technolgies using Node.js Python and Java technologies.
+I focus on **UI architecture, developer experience, and platform-scale problem-solving**, empowering teams to deliver high-quality products efficiently. My goal is to create **long-term impact**—for users, teams, and the business—by aligning technical strategy with product vision.
 
-- Self-motivated Team worker with excellent proactive problem-solving skills.
+Let’s connect if you’re looking for a **technical leader** who combines deep expertise with a people-first approach.
 
-- I am always eager to learn new things and try to improve my skills on a day-to-day basis.
+---
 
-- I am happy to connect, since Resource is the only thing never too much! 
+## **About Me**
+I’m a **self-motivated team player** passionate about solving challenges and improving processes. From coding UI components to designing scalable architectures, I thrive in environments where collaboration and innovation drive success.
 
-- Open to new challenges
+I believe in **continuous learning** and am always eager to explore new technologies and methodologies. Open to new opportunities and excited to contribute to impactful projects!
 
-<!--
-**mayurbaldha/mayurbaldha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **What I'm Currently Working On**
+- **Full-Stack Development**: Building scalable applications using **React, Next.js, Node.js, and TypeScript**.
+- **Technical Leadership**: Shaping architecture, mentoring teams, and optimizing developer workflows.
+- **Open Source**: Collaborating on projects that push the boundaries of modern web and mobile development.
+- **System Design**: Exploring scalable solutions for distributed systems and performance optimization.
 
-- 🔭 I’m currently working on Javascript,TypeScript,ECMAScript...
-- 🌱 I’m currently learning Javascript,TypeScript...
-- 👯 I’m looking to collaborate on Javascript codes...
-- 🤔 I’m looking for help with Javascript codes...
-- 💬 Ask me about Javascript codes...
-- 📫 How to reach me: https://twitter.com/mayurbaldha91
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **💻 Skills**
+
+### **Languages & Frameworks**
+Go, JavaScript, TypeScript, React, Next.js, React Native, Node.js, NestJS, Spring Boot, Java, PostgreSQL
+
+### **Methodologies & Concepts**
+Full-Stack Development, Microservices, Agile Methodologies, API Development, Clean Architecture, SOLID Principles
+
+### **Tools & Platforms**
+AWS, Git, GitHub, Jest, Redux, Webpack, Vite, CI/CD, Yarn, MongoDB
+
+### **Other Skills**
+Technical Leadership, System Architecture, Frontend DevOps, Performance Optimization, Accessibility, Scalality, Mentorship, Team Dynamics
+
+---
+
+## **Connect with Me**
+📧 **Email**: [m.g.baldha@gmail.com](mailto:m.g.baldha@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/mayurbaldha](https://www.linkedin.com/in/mayurbaldha)
+📱 **Mobile**: +48 579 317 418
+
+Let’s collaborate and build something great! 🚀
