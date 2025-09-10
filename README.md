@@ -11,7 +11,7 @@ Let’s connect if you’re looking for a **technical leader** who combines deep
 ---
 
 ## **About Me**
-I’m a **self-motivated team player** passionate about solving challenges and improving processes. From coding UI components to designing scalable architectures, I thrive in environments where collaboration and innovation drive success.
+I’m a **self-motivated budding team lead** passionate about solving challenges and improving processes. From coding UI components to designing scalable architectures, I thrive in environments where collaboration and innovation drive success.
 
 I believe in **continuous learning** and am always eager to explore new technologies and methodologies. Open to new opportunities and excited to contribute to impactful projects!
 
